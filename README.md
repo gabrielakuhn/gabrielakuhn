@@ -1,10 +1,7 @@
 ## 👋 Hello Word, I'm Gabriela Kuhn!
 
-🌍 From Brazil 🇧🇷
-
-📍 Living in the Netherlands 🇳🇱
-
-💻 Full-Stack Developer at TU Delft Library (4TU.ResearchData)
+🌍 From Brazil 🇧🇷 | 📍 Living in the Netherlands 🇳🇱  
+💻 Full-Stack Developer at TU Delft Library (4TU.ResearchData - DjeTŷ Project)
 
 
 
