@@ -11,6 +11,6 @@
 
 ### 💬 Let's Connect!
 
-- 📫 Email: gbr.kuhn@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/gabriela-kuhn/)
-- 💻 [GitHub](https://github.com/gabrielakuhn)
+📫 Email: gbr.kuhn@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/gabriela-kuhn/)
+💻 [GitHub](https://github.com/gabrielakuhn)
